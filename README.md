@@ -1,0 +1,1 @@
+# Poyecto para diagnosticar la neumonia usando redes neuronales convolucionales
